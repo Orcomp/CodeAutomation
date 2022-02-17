@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeAutomationConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\src\\CodeAutomationConsole\\config.yaml"
+    }
+  }
+}
